@@ -43,16 +43,6 @@ I have implemented a total of `23 algorithms` so far. And will try to add more l
   - Increment one
   - 2's Compliment
 
-
-
-
-I am not sure if anyone would like to contribute to this project or not. But any kind of contributions are welcomes. Also if you like this please star this repo. It keeps me motivated.
-
-### Special Features addition timeline
-
-- Commit 16: Added Flip Move animation to inplace sorting components
-- Commit 20: Added Tree Structure
-
 ### Acknowledgement
 
 I took inspirations from the following sources for some of the segments.
